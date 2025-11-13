@@ -1,84 +1,81 @@
-# 📘 Proyecto de Análisis de Sistemas – UNLaM 2025
+# Proyecto de Análisis de Sistemas – UNLaM 2025
 
 **Materia:** Análisis de Sistemas (DIIT–3367)  
 **Universidad Nacional de La Matanza**  
-**Cuatrimestre:** Segundo – 2025  
+**Cuatrimestre:** Segundo – Año 2025  
 **Profesores:** Carlos Alberto Conde · Sergio Daniel Conde · Fernando La Rosa · Juan Pablo Mighetti  
 
 ---
 
-## 🧠 Descripción general
+## Descripción General
 
-Este repositorio contiene el **Trabajo Práctico Integrador** de la materia **Análisis de Sistemas**, donde se desarrollan **trece casos de estudio** aplicando técnicas de modelado UML y análisis orientado a objetos.
+Este repositorio contiene el trabajo práctico integrador de la materia *Análisis de Sistemas*, correspondiente al segundo cuatrimestre del año 2025.  
+El proyecto presenta una serie de ejercicios orientados al análisis y modelado de distintos sistemas informáticos, aplicando técnicas UML y principios de análisis orientado a objetos.
 
-Cada ejercicio parte de un **enunciado narrativo** que describe un sistema informático y se complementa con sus respectivos diagramas y modelos de análisis.  
-El objetivo principal es representar de forma estructurada el comportamiento de los sistemas y sus interacciones con los actores involucrados.
+Cada caso parte de un enunciado descriptivo que plantea una situación real o hipotética, seguido por su respectivo modelado: modelo de dominio, diagramas de casos de uso, diagramas de estados, diagramas de actividad y modelo de análisis.
 
 ---
 
-## 📊 Contenido del documento
+## Contenido del Documento
 
 El trabajo incluye los siguientes tipos de diagramas y modelos:
 
 - **MDOM:** Modelo de Dominio  
 - **AOO:** Análisis Orientado a Objetos  
-- **DAC / DES:** Diagramas de Actividad y de Estado  
-- **CU, CUEXT, CUINC:** Casos de Uso (Base, Extend e Include)  
+- **DES / DAC:** Diagramas de Estado y de Actividad  
+- **CU / CUEXT / CUINC:** Casos de Uso (Base, Extend e Include)  
 - **MANA:** Modelo de Análisis  
 
 ---
 
-## 🧩 Casos de estudio
+## Casos de Estudio
 
-| Nº | Sistema | Descripción breve |
-|----|----------|------------------|
+| Nº | Sistema | Descripción |
+|----|----------|-------------|
 | 1 | **AirPatagonia** | Sistema para el despacho de equipaje de pasajeros en vuelos locales. |
-| 2 | **Cadena hotelera** | Gestión de reservas online, tipos de habitación y pagos por temporada. |
-| 3 | **Partidazo** | App móvil para reservar canchas y organizar partidos con amigos. |
-| 4 | **Vecino Cerca** | Sistema de ventas con tarjeta de afinidad y registro de promociones. |
-| 5 | **Cadena de estaciones de servicio** | Expendio automatizado de combustible y fidelización por puntos. |
-| 6 | **BINBIN** | Plataforma para alquiler de scooters eléctricos con geolocalización. |
-| 7 | **Recitaluzza 2025** | Sistema cashless con pulseras electrónicas para accesos y pagos. |
+| 2 | **Cadena hotelera** | Gestión de reservas online y pagos según temporada y tipo de habitación. |
+| 3 | **Partidazo** | Aplicación móvil para reservar canchas y coordinar partidos con amigos. |
+| 4 | **Vecino Cerca** | Sistema de ventas con tarjeta de afinidad y control de promociones. |
+| 5 | **Cadena de estaciones de servicio** | Expendio automático de combustible y programa de puntos. |
+| 6 | **BINBIN** | Plataforma de alquiler de scooters eléctricos con geolocalización. |
+| 7 | **Recitaluzza 2025** | Sistema cashless para eventos mediante pulseras electrónicas. |
 | 8 | **Sanatorio La Salud** | Gestión de turnos médicos, admisión y control de pacientes. |
 | 9 | **Clínica Maternidad** | Control biométrico de ingreso y egreso en el área de neonatología. |
 | 10 | **Gestión de Licencias de Conducir por Puntos** | Sistema de control de infracciones y retención de licencias. |
-| 11 | **Telepeaje** | Registro automatizado de pasadas y control de saldo mediante TAG. |
-| 12 | **Self Checkouts** | Sistema de cajas autoservicio con verificación de peso y pago automático. |
-| 13 | **Amazon Go®** | Modelado de tiendas sin cajas, con tecnología “Just Walk Out”. |
+| 11 | **Telepeaje** | Registro automático de pasadas y gestión de saldo mediante TAG. |
+| 12 | **Self Checkouts** | Sistema de cajas autoservicio con detección de peso y pago automatizado. |
+| 13 | **Amazon Go®** | Modelado de tiendas sin cajas con tecnología de detección automática. |
 
 ---
 
-## 🎯 Objetivos académicos
+## Objetivos Académicos
 
-- Aplicar los conceptos de **análisis funcional de sistemas**.  
-- Modelar procesos mediante **diagramas UML**.  
-- Identificar actores, flujos de eventos, precondiciones y postcondiciones.  
-- Elaborar **modelos de análisis y de dominio** coherentes y reutilizables.  
-- Representar **interfaces tentativas** según los requerimientos funcionales.  
-
----
-
-## 👥 Integrantes del grupo
-
-- **Di Salvio, Gian Luca**  
-- **Guevara, Agostina**  
-- **Romero, Carla Abril**  
-- **Oliveti, Lautaro Nahuel**  
-- **Valdevieso, Rocío Elizabeth**  
-- **Vicente, Alan Miguel**
+- Aplicar los conceptos del análisis funcional de sistemas.  
+- Desarrollar modelos conceptuales mediante diagramas UML.  
+- Identificar actores, flujos principales y alternativos, precondiciones y postcondiciones.  
+- Representar el comportamiento del sistema desde una perspectiva estructurada.  
+- Elaborar modelos de análisis y de dominio coherentes con los requerimientos planteados.  
 
 ---
 
-## 🧾 Créditos y agradecimientos
+## Integrantes del Grupo
 
-Proyecto académico realizado en el marco de la cátedra de **Análisis de Sistemas** – Universidad Nacional de La Matanza.  
-Todos los diagramas y modelos fueron elaborados como parte de las consignas prácticas propuestas por los docentes de la materia.
+- Di Salvio, Gian Luca  
+- Guevara, Agostina  
+- Romero, Carla Abril  
+- Oliveti, Lautaro Nahuel  
+- Valdevieso, Rocío Elizabeth  
+- Vicente, Alan Miguel  
+
+---
+
+## Archivo Principal
+
+**[OlivetiLautaro-43863497.pdf](./OlivetiLautaro-43863497.pdf)**  
+Documento completo con los enunciados, modelos de dominio, diagramas UML y modelos de análisis correspondientes a los trece casos de estudio.
 
 ---
 
-### 📎 Archivo principal
 
-📄 [`OlivetiLautaro-43863497.pdf`](./OlivetiLautaro-43863497.pdf) – Documento completo con los enunciados, modelos de dominio, diagramas UML y modelos de análisis correspondientes a los 13 casos de estudio.
 
----
 
