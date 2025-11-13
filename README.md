@@ -3,9 +3,6 @@
 **Materia:** Análisis de Sistemas (DIIT–3367)  
 **Universidad Nacional de La Matanza**  
 **Cuatrimestre:** Segundo – Año 2025  
-**Profesores:** Carlos Alberto Conde · Sergio Daniel Conde · Fernando La Rosa · Juan Pablo Mighetti  
-
----
 
 ## Descripción General
 
@@ -14,7 +11,7 @@ El proyecto presenta una serie de ejercicios orientados al análisis y modelado 
 
 Cada caso parte de un enunciado descriptivo que plantea una situación real o hipotética, seguido por su respectivo modelado: modelo de dominio, diagramas de casos de uso, diagramas de estados, diagramas de actividad y modelo de análisis.
 
----
+
 
 ## Contenido del Documento
 
@@ -26,7 +23,7 @@ El trabajo incluye los siguientes tipos de diagramas y modelos:
 - **CU / CUEXT / CUINC:** Casos de Uso (Base, Extend e Include)  
 - **MANA:** Modelo de Análisis  
 
----
+
 
 ## Casos de Estudio
 
@@ -46,7 +43,7 @@ El trabajo incluye los siguientes tipos de diagramas y modelos:
 | 12 | **Self Checkouts** | Sistema de cajas autoservicio con detección de peso y pago automatizado. |
 | 13 | **Amazon Go®** | Modelado de tiendas sin cajas con tecnología de detección automática. |
 
----
+
 
 ## Objetivos Académicos
 
@@ -56,7 +53,6 @@ El trabajo incluye los siguientes tipos de diagramas y modelos:
 - Representar el comportamiento del sistema desde una perspectiva estructurada.  
 - Elaborar modelos de análisis y de dominio coherentes con los requerimientos planteados.  
 
----
 
 ## Integrantes del Grupo
 
@@ -67,14 +63,14 @@ El trabajo incluye los siguientes tipos de diagramas y modelos:
 - Valdevieso, Rocío Elizabeth  
 - Vicente, Alan Miguel  
 
----
+
 
 ## Archivo Principal
 
 **[OlivetiLautaro-43863497.pdf](./OlivetiLautaro-43863497.pdf)**  
 Documento completo con los enunciados, modelos de dominio, diagramas UML y modelos de análisis correspondientes a los trece casos de estudio.
 
----
+
 
 
 
